@@ -1,22 +1,22 @@
 <div align="center">
   <img src="https://github.com/pathaksneha659-blip.png" width="150" alt="Sneha Pathak" />
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0F172A&center=true&vCenter=true&width=500&lines=Sneha+Pathak;B.Tech+AI%2FML+Student;Java+DSA+%7C+ML+%26+NLP;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0F172A&center=true&vCenter=true&width=500&lines=Sneha+Pathak;B.Tech+AI%2FML+Student;Java+DSA+%7C+ML+%26+NLP" alt="Typing SVG" />
 </div>
 
 <br>
 
 <p align="center">
-  <strong>Building AI/ML projects, solving DSA problems, and learning full-stack development.</strong>
+  <strong>Building AI/ML projects, solving DSA problems, and mastering deep learning.</strong>
   <br>
-  Open to internships in AI/ML, Software Engineering, and Full Stack Development.
+  Open to internships in AI/ML and Software Engineering.
 </p>
 
 ---
 
 ## About Me
 
-I'm a B.Tech AI/ML student with a passion for building practical projects and solving complex problems. My journey combines machine learning, backend development, and full-stack engineering. I'm currently focused on strengthening my DSA fundamentals while exploring NLP and production-grade system design.
+I'm a B.Tech AI/ML student with a passion for building practical projects and solving complex problems. My journey combines machine learning, deep learning, and backend development. I'm currently focused on developing expertise in AI/ML while strengthening core computer science fundamentals through DSA.
 
 ---
 
@@ -25,21 +25,19 @@ I'm a B.Tech AI/ML student with a passion for building practical projects and so
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | Java, Python, JavaScript, HTML, CSS |
-| **ML / AI** | scikit-learn, NLTK, NumPy, Pandas, Jupyter Notebook |
-| **Frontend** | React, Vite, Tailwind CSS, Chart.js |
+| **Languages** | Java, Python, HTML, CSS |
+| **ML / AI** | PyTorch, TensorFlow, NLTK, NumPy, Pandas, Jupyter Notebook |
 | **Backend** | Flask, FastAPI, REST APIs, Python |
-| **Tools** | Git, VS Code, Jupyter, Vercel, Render |
+| **Tools** | Git, VS Code, Jupyter, Render, Vercel |
 
 ---
 
@@ -48,10 +46,9 @@ I'm a B.Tech AI/ML student with a passion for building practical projects and so
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%"><b>🤖 ML & NLP</b><br>Model building<br>Text processing</td>
-      <td align="center" width="25%"><b>💻 Java DSA</b><br>Problem solving<br>Algorithms</td>
-      <td align="center" width="25%"><b>⚛️ Full Stack</b><br>React<br>Backend APIs</td>
-      <td align="center" width="25%"><b>🔧 Backend</b><br>Flask/FastAPI<br>Data pipelines</td>
+      <td align="center" width="33%"><b>🤖 ML & NLP</b><br>Model building<br>Text processing</td>
+      <td align="center" width="33%"><b>💻 Java DSA</b><br>Problem solving<br>Algorithms</td>
+      <td align="center" width="33%"><b>🧠 Deep Learning</b><br>PyTorch<br>Neural Networks</td>
     </tr>
   </table>
 </div>
@@ -71,7 +68,7 @@ A comprehensive placement readiness platform combining ML prediction with career
 - Adaptive goal planning
 - Career guidance assistant
 
-**Tech Stack:** React • Vite • Tailwind CSS • FastAPI • scikit-learn • PyPDF
+**Tech Stack:** FastAPI • PyTorch • Pandas • PyPDF
 
 **Live Demo:** [PlaceIQ Platform](https://48088202cbd3b0.lhr.life/)
 
@@ -86,7 +83,7 @@ Flask-based NLP application that analyzes text and predicts emotions with confid
 - Text preprocessing with NLTK
 - Interactive dashboard
 
-**Tech Stack:** Python • Flask • scikit-learn • NLTK • HTML/CSS/JavaScript • Chart.js
+**Tech Stack:** Python • Flask • PyTorch • NLTK • HTML/CSS/JavaScript • Chart.js
 
 **Live Demo:** [Emotify](https://emotion-prediction-app.vercel.app/)
 
@@ -145,14 +142,14 @@ Actively improving core Computer Science fundamentals through Java-based problem
 ## Goals & Roadmap
 
 ### 🎯 Short Term (Next 6 months)
-- Secure internship in AI/ML or Full Stack Development
+- Secure internship in AI/ML or Software Engineering
 - Complete core DSA fundamentals
-- Build 2-3 production-ready full-stack applications
+- Build 2-3 production-ready ML applications
 - Contribute to open-source projects
 
 ### 🚀 Long Term
 - Develop expertise in NLP and recommendation systems
-- Master backend architecture and system design
+- Master deep learning architectures and model optimization
 - Create impact-driven ML projects
 - Build a strong engineering portfolio
 
